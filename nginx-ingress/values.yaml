@@ -148,7 +148,7 @@ controller:
   autoscaling:
     enabled: false
     minReplicas: 1
-    maxReplicas: 13
+    maxReplicas: 11
     targetCPUUtilizationPercentage: 50
     targetMemoryUtilizationPercentage: 50
 
