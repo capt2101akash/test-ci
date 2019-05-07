@@ -290,7 +290,7 @@ defaultBackend:
   ##
   enabled: true
 
-  name: default-backend-1
+  name: default-backend-3
   image:
     repository: k8s.gcr.io/defaultbackend
     tag: "1.4"
